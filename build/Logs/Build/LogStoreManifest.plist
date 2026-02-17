@@ -6,7 +6,7 @@
 	<integer>12</integer>
 	<key>logs</key>
 	<dict>
-		<key>4498DE0E-DAB3-43FC-A808-4EAC4E67C9F5</key>
+		<key>1B209ADE-3868-49F0-9C2B-94002FC4A9F1</key>
 		<dict>
 			<key>className</key>
 			<string>IDECommandLineBuildLog</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>4498DE0E-DAB3-43FC-A808-4EAC4E67C9F5.xcactivitylog</string>
+			<string>1B209ADE-3868-49F0-9C2B-94002FC4A9F1.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -40,15 +40,15 @@
 			<key>signature</key>
 			<string>Cleaning project Zephyr with scheme Zephyr and configuration Release</string>
 			<key>timeStartedRecording</key>
-			<real>792987303.56371105</real>
+			<real>792988608.87511694</real>
 			<key>timeStoppedRecording</key>
-			<real>792987303.76660705</real>
+			<real>792988609.08962095</real>
 			<key>title</key>
 			<string>Cleaning project Zephyr with scheme Zephyr and configuration Release</string>
 			<key>uniqueIdentifier</key>
-			<string>4498DE0E-DAB3-43FC-A808-4EAC4E67C9F5</string>
+			<string>1B209ADE-3868-49F0-9C2B-94002FC4A9F1</string>
 		</dict>
-		<key>5286029D-6125-45DD-856E-8547E31295B1</key>
+		<key>3C3406A3-0A1E-4BEC-84C6-6EAB0F9E45E3</key>
 		<dict>
 			<key>className</key>
 			<string>IDECommandLineBuildLog</string>
@@ -57,49 +57,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>5286029D-6125-45DD-856E-8547E31295B1.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>0</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Zephyr project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Zephyr</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Cleaning project Zephyr with scheme Zephyr and configuration Release</string>
-			<key>timeStartedRecording</key>
-			<real>792878071.33841503</real>
-			<key>timeStoppedRecording</key>
-			<real>792878071.582461</real>
-			<key>title</key>
-			<string>Cleaning project Zephyr with scheme Zephyr and configuration Release</string>
-			<key>uniqueIdentifier</key>
-			<string>5286029D-6125-45DD-856E-8547E31295B1</string>
-		</dict>
-		<key>C29C8FCB-18D8-43F7-BC46-9F570A830F08</key>
-		<dict>
-			<key>className</key>
-			<string>IDECommandLineBuildLog</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>C29C8FCB-18D8-43F7-BC46-9F570A830F08.xcactivitylog</string>
+			<string>3C3406A3-0A1E-4BEC-84C6-6EAB0F9E45E3.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -124,13 +82,55 @@
 			<key>signature</key>
 			<string>Building project Zephyr with scheme Zephyr and configuration Release</string>
 			<key>timeStartedRecording</key>
-			<real>792987303.76887</real>
+			<real>792988609.09195399</real>
 			<key>timeStoppedRecording</key>
-			<real>792987317.25774896</real>
+			<real>792988622.48333597</real>
 			<key>title</key>
 			<string>Building project Zephyr with scheme Zephyr and configuration Release</string>
 			<key>uniqueIdentifier</key>
-			<string>C29C8FCB-18D8-43F7-BC46-9F570A830F08</string>
+			<string>3C3406A3-0A1E-4BEC-84C6-6EAB0F9E45E3</string>
+		</dict>
+		<key>60D46352-EA7B-4A28-B353-1BE4CC158325</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>60D46352-EA7B-4A28-B353-1BE4CC158325.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Zephyr project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Zephyr</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Cleaning project Zephyr with scheme Zephyr and configuration Release</string>
+			<key>timeStartedRecording</key>
+			<real>792988784.20685399</real>
+			<key>timeStoppedRecording</key>
+			<real>792988784.406708</real>
+			<key>title</key>
+			<string>Cleaning project Zephyr with scheme Zephyr and configuration Release</string>
+			<key>uniqueIdentifier</key>
+			<string>60D46352-EA7B-4A28-B353-1BE4CC158325</string>
 		</dict>
 	</dict>
 </dict>
